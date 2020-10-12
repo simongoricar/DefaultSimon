@@ -5,7 +5,8 @@
   <hr>
 </p>
 
-I'm **Simon**, a Python & TypeScript developer and designer by heart.
+I'm **Simon**, a *Python & TypeScript developer and web designer* by heart.
+I love all kinds of fun and challenging projects and above all, something new.
 
 <div align="center">
   <h4>Here are some of the tools I work with</h4>
