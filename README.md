@@ -7,7 +7,7 @@
   <hr>
 </p>
 
-🌲 I'm **Simon**, a *Python & TypeScript developer and web designer* by heart.
+🌲 I'm **Simon**, a *Python & web developer and designer* by heart.
 I love all kinds of fun and challenging projects and above all, something new.
 
 <div align="center">
