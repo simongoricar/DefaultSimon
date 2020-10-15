@@ -29,4 +29,4 @@ I love all kinds of fun and challenging projects and above all, something new.
   </div>
 </div>
   
-##### A few of my proudest projects are listed below 🚀
+##### A few of my proudest projects are listed below.
