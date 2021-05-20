@@ -7,8 +7,7 @@
   <hr>
 </p>
 
-🌲 I'm **Simon**, a *Software Developer*.  
-I love all kinds of fun and challenging projects and above all, something new.
+I'm **Simon**! I love all kinds of fun and challenging projects and above all, something new.
 
 <div align="center">
   <h4>Here are some of the tools I work with</h4>
