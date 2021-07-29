@@ -28,4 +28,4 @@ I'm **Simon**! I love all kinds of fun and challenging projects and above all, s
   </div>
 </div>
   
-##### Some of my proudest projects are below:
+##### Some of my proudest open-source projects are below:
