@@ -27,5 +27,4 @@ I'm **Simon**! I love all kinds of fun and challenging projects and above all, s
     <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-1?style=flat-square&color=2e7d32&logo=raspberry-pi&logoColor=white"></a>
   </div>
 </div>
-  
-##### Some of my proudest open-source projects are below:
+ 
